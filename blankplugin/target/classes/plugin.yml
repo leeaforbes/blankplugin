@@ -1,0 +1,6 @@
+main: com.javabean.mc.blankplugin.App
+name: BlankPlugin
+author: JavaBean
+description: Just a blank plugin.
+version: 0.1
+api-version: 1.18
